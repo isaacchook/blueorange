@@ -1,3 +1,4 @@
 # blueorange
 ### Numbers classifier
-Currently having a poor performance despite low error rate. 
+Good performance. Able to recognize handwritten digits from 1-9.
+Suggest usage with Paint (Set the dimension of the drawing panel to approx. 400x300). Upload it and click classify.
